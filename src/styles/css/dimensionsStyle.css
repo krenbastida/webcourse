@@ -1,0 +1,10 @@
+.container1{
+  width: 50%;
+}
+
+.container1 p{
+  min-width: 100px;
+}
+.container2{
+  width: 80%;
+}
